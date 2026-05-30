@@ -142,21 +142,34 @@
 
 ### 📊 Interactive Developer Metrics
 
-<p align="center">
-  <a href="https://github.com/mayurshewale12">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurshewale12&theme=tokyonight" alt="Mayur's Profile Details" height="195" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mayurshewale12">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurshewale12&theme=tokyonight" alt="Top Languages" height="195" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mayurshewale12">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurshewale12&theme=tokyonight&background=0a0b10&ring=6366f1&fire=06b6d4&currStreakNum=ffffff&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&border=1e293b&hide_border=false&cache_seconds=86400&v=4" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="5" cellspacing="5">
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/mayurshewale12">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayurshewale12&theme=tokyonight" alt="GitHub Stats" width="370" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/mayurshewale12">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurshewale12&theme=tokyonight" alt="Top Languages" width="370" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/mayurshewale12">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurshewale12&theme=tokyonight" alt="Repos per Language" width="370" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/mayurshewale12">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurshewale12&theme=tokyonight&background=0a0b10&ring=6366f1&fire=06b6d4&currStreakNum=ffffff&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&border=1e293b&hide_border=false" alt="GitHub Streak" width="370" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr/>
 
