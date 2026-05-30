@@ -5,7 +5,7 @@
   
   <br/>
   
-  <!-- Subtle Visitor Badge Counter & Greetings -->
+  <!-- Dynamic Views Badge and Status Pills -->
   <p align="center">
     <img src="https://img.shields.io/badge/profile--views-1.5k+-06b6d4?style=flat-square&logo=github" alt="Visitor Count" />
     &nbsp;&nbsp;
@@ -14,38 +14,137 @@
     <img src="https://img.shields.io/badge/focus-full--stack--dev-6366f1?style=flat-square" alt="Focus" />
   </p>
 
-  <h1>✨ Welcome to My Digital Universe! ✨</h1>
+  <h1>✨ Mayur Vijay Shewale ✨</h1>
+  <h3>🚀 Aspiring Full Stack Developer</h3>
   
   <p>
-    I am a passionate <b>Full Stack Developer</b> committed to engineering highly performant, accessible, and stunning user experiences. Blending clean architecture with premium design is my sweet spot.
+    <i>"A passionate software developer skilled in React.js, Spring Boot, and robust database systems, dedicated to building responsive user interfaces, clean backend architectures, and high-performance real-time features."</i>
   </p>
 
-  <p>
-    🔗 <b><a href="https://mayurshewale.site" target="_blank" style="color: #06b6d4; text-decoration: none;">Explore My Live Portfolio →</a></b>
+  <!-- Connect Pill Badges -->
+  <p align="center">
+    <a href="mailto:mvshewale2003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mvshewale2003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="tel:+918080554352">
+      <img src="https://img.shields.io/badge/Phone-%2B91--8080554352-06b6d4?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/mayurshewale1" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Mayur_Shewale-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   </p>
 </div>
 
 <hr/>
 
-### 🛠️ My Digital Toolbox
+### 🛠️ Technical Ecosystem (My Toolbox)
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Frontend Engineering</h4>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <h4>💻 Languages & Core</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     </td>
     <td width="50%" valign="top">
-      <h4>☕ Backend & Systems</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      <h4>🎨 Frontend Technologies</h4>
+      <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Architecture</h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=009688" alt="JWT" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Database & Storage</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🛠️ Developer Tools & Environments</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven" />
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+### 💼 Professional Experience
+
+#### **Full Stack Developer Intern** — *Devotra Infotech*
+📅 *Jan 2026 – Present*
+*   Engineered and integrated modern front-end modules with robust backend services for high-performance web applications.
+*   Assisted in developing dynamic, responsive user interfaces and robust RESTful API integration pipelines.
+*   Gained comprehensive experience in clean industrial project structure, architectural design patterns, and systemic debugging.
+
+<hr/>
+
+### 🚀 Highlighted Project
+
+#### **HireHub — Job Portal Web Application**
+🎨 *Front-End:* React.js, Tailwind CSS, Modern Keyframe Animations
+⚙️ *Back-End:* Spring Boot, JWT Authentication, WebSocket Real-time alerts
+🗄️ *Database:* MySQL
+*   Developed a full-stack, enterprise-grade job search and recruitment portal featuring real-time application tracking pipelines.
+*   Crafted a responsive user interface showcasing high-end animations and interactive components.
+*   Built secure JWT-based authorization mechanisms and WebSockets to enable instant candidate notification systems.
+*   🔗 **[Explore HireHub Code Repository →](https://github.com/MAYURSHEWALE12/HireHub)**
+
+<hr/>
+
+### 🎓 Education & Certifications
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏫 Academic Journey</h4>
+      <ul>
+        <li>
+          <b>Master of Computer Applications (MCA)</b><br/>
+          <i>DY Patil School of MCA</i> (2024 – 2026)<br/>
+          📊 <b>CGPA: 8.2</b>
+        </li>
+        <br/>
+        <li>
+          <b>BBA (Computer Applications)</b><br/>
+          <i>CMCS College, Nashik</i> (2021 – 2024)<br/>
+          📊 <b>CGPA: 7.6</b>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📜 Credentials & Certifications</h4>
+      <ul>
+        <li>
+          <b>Certified Web Developer</b><br/>
+          <i>HTML, CSS, JavaScript Specialist</i><br/>
+          ⚡ Hands-on expert training in modern DOM manipulation, responsive layouts, and standard design principles.
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -72,28 +171,7 @@
 
 <hr/>
 
-### 🚀 Projects & Focus Areas
-
-*   🔭 **Currently building:** A next-generation SaaS application emphasizing visual excellence and lightning-fast developer experience.
-*   🌱 **Learning and exploring:** Advanced Cloud Architectures, Distributed Systems, and AI-driven workflow optimization.
-*   💬 **Ask me about:** React architecture, elegant CSS layouts, robust backend API designs, or Salesforce integration!
-
-<hr/>
-
-### 🌐 Let's Connect & Collaborate!
-
 <div align="center">
-  <a href="https://mayurshewale.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-090a0f?style=for-the-badge&logo=react&logoColor=06b6d4&border=06b6d4" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mayurshewale1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mvshewale2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <h3>🤝 Let's Collaborate on Something Incredible!</h3>
+  <p>I am actively seeking opportunities where I can apply my full stack engineering toolkit to drive meaningful product impact.</p>
 </div>
-
-
