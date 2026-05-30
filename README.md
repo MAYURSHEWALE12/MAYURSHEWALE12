@@ -103,40 +103,7 @@
 *   Built secure JWT-based authorization mechanisms and WebSockets to enable instant candidate notification systems.
 *   🔗 **[Explore HireHub Code Repository →](https://github.com/MAYURSHEWALE12/HireHub)**
 
-<hr/>
 
-### 🎓 Education & Certifications
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏫 Academic Journey</h4>
-      <ul>
-        <li>
-          <b>Master of Computer Applications (MCA)</b><br/>
-          <i>DY Patil School of MCA</i> (2024 – 2026)<br/>
-          📊 <b>CGPA: 8.2</b>
-        </li>
-        <br/>
-        <li>
-          <b>BBA (Computer Applications)</b><br/>
-          <i>CMCS College, Nashik</i> (2021 – 2024)<br/>
-          📊 <b>CGPA: 7.6</b>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📜 Credentials & Certifications</h4>
-      <ul>
-        <li>
-          <b>Certified Web Developer</b><br/>
-          <i>HTML, CSS, JavaScript Specialist</i><br/>
-          ⚡ Hands-on expert training in modern DOM manipulation, responsive layouts, and standard design principles.
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <hr/>
 
