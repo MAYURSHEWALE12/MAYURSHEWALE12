@@ -26,8 +26,8 @@
     <a href="mailto:mvshewale2003@gmail.com">
       <img src="https://img.shields.io/badge/Email-mvshewale2003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/mayurshewale1" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Mayur_Shewale-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/mayurvijayshewale/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Mayur_Vijay_Shewale-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>
@@ -90,12 +90,24 @@
 
 <hr/>
 
-### 🚀 Highlighted Project
+### 🚀 Highlighted Projects
+
+#### **JOURNALIST — The Trading Journal for Traders**
+🎨 *Front-End:* React (v19), TypeScript, Tailwind CSS v4, Recharts (Dynamic Analytics), Lucide Icons  
+⚙️ *Back-End:* Node.js, Express.js, Supabase (Cloud Sync), SQLite3 (Local Cache)  
+🛠️ *Services:* JWT Authentication, jsPDF & HTML2Canvas (PDF Report Exporter), Nodemailer  
+*   Developed a modern, local-first financial journal enabling traders to systematically log, analyze, and optimize their trading performance.
+*   Built dynamic financial visualization charts utilizing Recharts to track account balances, win/loss ratios, and weekly distribution heatmaps.
+*   Implemented automated SQLite-to-Supabase migration scripts for secure cloud sync and recovery.
+*   Integrated high-end programmatic PDF exporters using HTML2Canvas and jsPDF to compile instant trade performance reviews.
+*   🔗 **[Explore JOURNALIST Code Repository →](https://github.com/MAYURSHEWALE12/JOURNALIST---The-Trading-Journal-For-Tarders-)**
+
+<br/>
 
 #### **HireHub — Job Portal Web Application**
-🎨 *Front-End:* React.js, Tailwind CSS, Modern Keyframe Animations
-⚙️ *Back-End:* Spring Boot, JWT Authentication, WebSocket Real-time alerts
-🗄️ *Database:* MySQL
+🎨 *Front-End:* React.js, Tailwind CSS, Modern Keyframe Animations  
+⚙️ *Back-End:* Spring Boot, JWT Authentication, WebSocket Real-time alerts  
+🗄️ *Database:* MySQL  
 *   Developed a full-stack, enterprise-grade job search and recruitment portal featuring real-time application tracking pipelines.
 *   Crafted a responsive user interface showcasing high-end animations and interactive components.
 *   Built secure JWT-based authorization mechanisms and WebSockets to enable instant candidate notification systems.
