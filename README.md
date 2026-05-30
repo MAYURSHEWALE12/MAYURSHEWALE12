@@ -96,7 +96,4 @@
   </a>
 </div>
 
-<br/>
-<div align="center" style="color: #64748b; font-size: 11px;">
-  Designed with 💜 by Antigravity
-</div>
+
