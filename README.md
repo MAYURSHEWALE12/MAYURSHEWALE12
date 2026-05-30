@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Beautiful Animated Header Banner -->
-  <img src="./banner.svg" width="100%" alt="Mayur Shewale Banner" />
+  <img src="https://raw.githubusercontent.com/MAYURSHEWALE12/MAYURSHEWALE12/main/banner.svg" width="100%" alt="Mayur Shewale Banner" />
   
   <br/>
   
@@ -54,26 +54,15 @@
 
 ### 📊 Interactive Developer Metrics
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="50%">
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=MAYURSHEWALE12&show_icons=true&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false" alt="Mayur's GitHub Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYURSHEWALE12&layout=compact&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding-top: 10px;">
-        <!-- Streak Stats Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAYURSHEWALE12&theme=tokyonight&background=0a0b10&ring=6366f1&fire=06b6d4&currStreakNum=ffffff&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&border=1e293b&hide_border=false" alt="GitHub Streak" width="98%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAYURSHEWALE12&show_icons=true&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false" alt="Mayur's GitHub Stats" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYURSHEWALE12&layout=compact&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAYURSHEWALE12&theme=tokyonight&background=0a0b10&ring=6366f1&fire=06b6d4&currStreakNum=ffffff&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&border=1e293b&hide_border=false" alt="GitHub Streak" width="97%" />
+</p>
 
 <hr/>
 
