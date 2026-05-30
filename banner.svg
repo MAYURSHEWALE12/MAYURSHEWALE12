@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 280" width="100%" height="100%">
+  <defs>
+    <!-- Google Fonts import -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;family=Space+Grotesk:wght@500;700&amp;display=swap');
+
+      text {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        user-select: none;
+      }
+
+      /* Glow & Neon Text Styling */
+      .title-glow {
+        font-family: 'Space Grotesk', sans-serif;
+        font-weight: 800;
+        font-size: 46px;
+        fill: #ffffff;
+        text-shadow: 0 0 10px rgba(99, 102, 241, 0.8), 0 0 20px rgba(6, 182, 212, 0.5);
+        animation: glowPulse 4s ease-in-out infinite alternate;
+      }
+
+      .subtitle {
+        font-weight: 600;
+        font-size: 16px;
+        fill: #06b6d4;
+        letter-spacing: 4px;
+        animation: cyanGlow 3s ease-in-out infinite alternate;
+      }
+
+      .tagline {
+        font-weight: 400;
+        font-size: 14px;
+        fill: #94a3b8;
+        letter-spacing: 1px;
+      }
+
+      /* Glowing interactive particles */
+      .particle {
+        animation: floatParticle 8s infinite ease-in-out;
+        fill-opacity: 0.7;
+      }
+
+      .particle-slow {
+        animation: floatParticle 12s infinite ease-in-out;
+        fill-opacity: 0.5;
+      }
+
+      /* Wave animations */
+      .wave {
+        animation: waveMotion 15s infinite linear;
+        transform-origin: center;
+      }
+
+      .wave-reverse {
+        animation: waveMotionReverse 20s infinite linear;
+        transform-origin: center;
+      }
+
+      /* CSS Keyframes */
+      @keyframes glowPulse {
+        0% {
+          text-shadow: 0 0 10px rgba(99, 102, 241, 0.6), 0 0 20px rgba(6, 182, 212, 0.4);
+        }
+        100% {
+          text-shadow: 0 0 20px rgba(99, 102, 241, 0.9), 0 0 35px rgba(6, 182, 212, 0.7), 0 0 50px rgba(99, 102, 241, 0.5);
+        }
+      }
+
+      @keyframes cyanGlow {
+        0% {
+          fill: #06b6d4;
+          filter: drop-shadow(0 0 2px rgba(6, 182, 212, 0.4));
+        }
+        100% {
+          fill: #a5f3fc;
+          filter: drop-shadow(0 0 8px rgba(6, 182, 212, 0.8));
+        }
+      }
+
+      @keyframes floatParticle {
+        0%, 100% {
+          transform: translateY(0) translateX(0) scale(1);
+        }
+        50% {
+          transform: translateY(-15px) translateX(10px) scale(1.2);
+        }
+      }
+
+      @keyframes waveMotion {
+        0% {
+          transform: translateX(0) translateY(0);
+        }
+        50% {
+          transform: translateX(-20px) translateY(5px);
+        }
+        100% {
+          transform: translateX(0) translateY(0);
+        }
+      }
+
+      @keyframes waveMotionReverse {
+        0% {
+          transform: translateX(0) translateY(0);
+        }
+        50% {
+          transform: translateX(20px) translateY(-5px);
+        }
+        100% {
+          transform: translateX(0) translateY(0);
+        }
+      }
+
+      /* Pulsing glow indicators */
+      .badge-glow {
+        animation: pulseBadge 3s infinite ease-in-out;
+      }
+
+      @keyframes pulseBadge {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.8; }
+      }
+    </style>
+
+    <!-- Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07080e" />
+      <stop offset="50%" stop-color="#0c0d1b" />
+      <stop offset="100%" stop-color="#14152a" />
+    </linearGradient>
+
+    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#d946ef" />
+    </linearGradient>
+
+    <linearGradient id="glowOverlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </linearGradient>
+
+    <radialGradient id="mesh" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="830" height="280" fill="url(#bgGrad)" rx="16" />
+  
+  <!-- Mesh Glow Effect -->
+  <circle cx="415" cy="140" r="350" fill="url(#mesh)" />
+  <rect width="830" height="280" fill="url(#glowOverlay)" rx="16" />
+
+  <!-- Grid Pattern overlay for techy aesthetic -->
+  <g opacity="0.08">
+    <path d="M 0,30 L 830,30 M 0,60 L 830,60 M 0,90 L 830,90 M 0,120 L 830,120 M 0,150 L 830,150 M 0,180 L 830,180 M 0,210 L 830,210 M 0,240 L 830,240" stroke="#ffffff" stroke-width="1"/>
+    <path d="M 50,0 L 50,280 M 100,0 L 100,280 M 150,0 L 150,280 M 200,0 L 200,280 M 250,0 L 250,280 M 300,0 L 300,280 M 350,0 L 350,280 M 400,0 L 400,280 M 450,0 L 450,280 M 500,0 L 500,280 M 550,0 L 550,280 M 600,0 L 600,280 M 650,0 L 650,280 M 700,0 L 700,280 M 750,0 L 750,280 M 800,0 L 800,280" stroke="#ffffff" stroke-width="1"/>
+  </g>
+
+  <!-- Dynamic Waves / Ribbon Graphics at the Bottom -->
+  <path class="wave" d="M -50 250 Q 150 230 350 260 T 750 240 T 900 270 L 900 290 L -50 290 Z" fill="#6366f1" fill-opacity="0.15" />
+  <path class="wave-reverse" d="M -50 260 Q 200 270 400 240 T 800 260 T 950 235 L 950 290 L -50 290 Z" fill="#06b6d4" fill-opacity="0.12" />
+
+  <!-- Decorative Orbit Lines -->
+  <circle cx="720" cy="80" r="90" fill="none" stroke="url(#cyanPurple)" stroke-width="1.5" stroke-dasharray="8 6" opacity="0.25" class="wave" />
+  <circle cx="720" cy="80" r="50" fill="none" stroke="#6366f1" stroke-width="1" opacity="0.2" class="wave-reverse" />
+  <circle cx="720" cy="80" r="12" fill="#06b6d4" class="particle" />
+
+  <!-- Floating Particles/Stars -->
+  <circle cx="100" cy="60" r="3" fill="#06b6d4" class="particle" />
+  <circle cx="150" cy="200" r="2" fill="#6366f1" class="particle-slow" />
+  <circle cx="680" cy="210" r="3" fill="#d946ef" class="particle" />
+  <circle cx="340" cy="40" r="1.5" fill="#ffffff" class="particle-slow" />
+  <circle cx="580" cy="50" r="2.5" fill="#06b6d4" class="particle" />
+  <circle cx="80" cy="180" r="1.5" fill="#ffffff" class="particle-slow" />
+
+  <!-- Central/Left Aligned Typography -->
+  <g transform="translate(60, 0)">
+    <!-- Subtitle (Tracking/Role) -->
+    <text x="0" y="85" class="subtitle">FULL-STACK DEVELOPER</text>
+
+    <!-- Main Title -->
+    <text x="0" y="142" class="title-glow">MAYUR SHEWALE</text>
+    
+    <!-- Tagline & Description -->
+    <text x="0" y="185" class="tagline">Crafting modern, beautiful &amp; high-performance web applications</text>
+
+    <!-- Tech Stack Icons Embedded / Bullet styling -->
+    <g transform="translate(0, 218)">
+      <rect x="0" y="0" width="80" height="24" rx="12" fill="#6366f1" fill-opacity="0.15" stroke="#6366f1" stroke-opacity="0.3" stroke-width="1" />
+      <text x="40" y="16" font-size="11" font-weight="600" fill="#a5f3fc" text-anchor="middle">⚡ REACT</text>
+      
+      <rect x="92" y="0" width="75" height="24" rx="12" fill="#06b6d4" fill-opacity="0.15" stroke="#06b6d4" stroke-opacity="0.3" stroke-width="1" />
+      <text x="129.5" y="16" font-size="11" font-weight="600" fill="#a5f3fc" text-anchor="middle">☕ JAVA</text>
+
+      <rect x="179" y="0" width="90" height="24" rx="12" fill="#d946ef" fill-opacity="0.15" stroke="#d946ef" stroke-opacity="0.3" stroke-width="1" />
+      <text x="224" y="16" font-size="11" font-weight="600" fill="#fbcfe8" text-anchor="middle">🐍 PYTHON</text>
+
+      <rect x="281" y="0" width="112" height="24" rx="12" fill="#3b82f6" fill-opacity="0.15" stroke="#3b82f6" stroke-opacity="0.3" stroke-width="1" />
+      <text x="337" y="16" font-size="11" font-weight="600" fill="#bfdbfe" text-anchor="middle">☁️ SALESFORCE</text>
+    </g>
+  </g>
+  
+  <!-- Right Side Interactive-look element -->
+  <g transform="translate(620, 110)">
+    <!-- Sleek Tech Graphic / Terminal mockup element -->
+    <rect x="0" y="0" width="150" height="90" rx="10" fill="#090a0f" fill-opacity="0.8" stroke="#1e293b" stroke-width="1.5" />
+    <circle cx="15" cy="15" r="4" fill="#ef4444" />
+    <circle cx="27" cy="15" r="4" fill="#eab308" />
+    <circle cx="39" cy="15" r="4" fill="#22c55e" />
+    
+    <text x="15" y="45" font-family="'Space Grotesk', monospace" font-size="11" fill="#6366f1">&gt; npm run dev</text>
+    <text x="15" y="65" font-family="'Space Grotesk', monospace" font-size="10" fill="#22c55e">✓ Ready in 45ms</text>
+    
+    <!-- Blinking cursor -->
+    <rect x="110" y="36" width="6" height="11" fill="#06b6d4" class="badge-glow" />
+  </g>
+</svg>
