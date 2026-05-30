@@ -56,11 +56,11 @@
 
 <p align="center">
   <a href="https://github.com/mayurshewale12">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurshewale12&theme=tokyonight" alt="Mayur's Profile Details" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurshewale12&theme=tokyonight" alt="Mayur's Profile Details" height="195" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mayurshewale12">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurshewale12&theme=tokyonight" alt="Top Languages" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurshewale12&theme=tokyonight" alt="Top Languages" height="195" />
   </a>
 </p>
 
