@@ -101,7 +101,7 @@
 *   Developed a full-stack, enterprise-grade job search and recruitment portal featuring real-time application tracking pipelines.
 *   Crafted a responsive user interface showcasing high-end animations and interactive components.
 *   Built secure JWT-based authorization mechanisms and WebSockets to enable instant candidate notification systems.
-*   🔗 **[Explore HireHub Code Repository →](https://github.com/MAYURSHEWALE12/HireHub)**
+*   🔗 **[Explore HireHub Code Repository →](https://github.com/MAYURSHEWALE12/HireHub)** &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 **[Experience the Live Application →](https://job-portal-liart-one.vercel.app/)**
 
 
 
