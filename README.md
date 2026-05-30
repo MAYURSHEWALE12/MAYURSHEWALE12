@@ -100,7 +100,7 @@
 *   Built dynamic financial visualization charts utilizing Recharts to track account balances, win/loss ratios, and weekly distribution heatmaps.
 *   Implemented automated SQLite-to-Supabase migration scripts for secure cloud sync and recovery.
 *   Integrated high-end programmatic PDF exporters using HTML2Canvas and jsPDF to compile instant trade performance reviews.
-*   🔗 **[Explore JOURNALIST Code Repository →](https://github.com/MAYURSHEWALE12/JOURNALIST---The-Trading-Journal-For-Tarders-)**
+*   🔗 **[Explore JOURNALIST Code Repository →](https://github.com/MAYURSHEWALE12/JOURNALIST---The-Trading-Journal-For-Tarders-)** &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 **[Experience the Live Application →](https://tradejournalist.pages.dev/)**
 
 <br/>
 
