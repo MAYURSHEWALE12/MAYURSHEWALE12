@@ -1,9 +1,6 @@
 <div align="center">
   
-  <!-- Beautiful High-Resolution Widescreen Header Banner -->
-  <img src="banner.png?v=4" width="100%" alt="Mayur Shewale Banner" />
-  
-  <br/>
+
   
   <!-- Dynamic Views Badge and Status Pills -->
   <p align="center">
