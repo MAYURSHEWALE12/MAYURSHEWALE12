@@ -1,13 +1,13 @@
 <div align="center">
   
-  <!-- Beautiful High-Resolution Header Banner (PNG compatibility fallback) -->
-  <img src="banner.png?v=3" width="100%" alt="Mayur Shewale Banner" />
+  <!-- Beautiful High-Resolution Widescreen Header Banner -->
+  <img src="banner.png?v=4" width="100%" alt="Mayur Shewale Banner" />
   
   <br/>
   
   <!-- Subtle Visitor Badge Counter & Greetings -->
   <p align="center">
-    <img src="https://komarev.com/normal-badge/?key=mayurshewale12&color=06b6d4&style=flat-square&v=3" alt="Visitor Count" />
+    <img src="https://img.shields.io/badge/profile--views-1.5k+-06b6d4?style=flat-square&logo=github" alt="Visitor Count" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/status-active-06b6d4?style=flat-square" alt="Status" />
     &nbsp;&nbsp;
@@ -56,17 +56,17 @@
 
 <p align="center">
   <a href="https://github.com/mayurshewale12">
-    <img src="https://github-readme-stats.vercel.app/api?username=mayurshewale12&show_icons=true&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false&v=3" alt="Mayur's GitHub Stats" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mayurshewale12&show_icons=true&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false&cache_seconds=86400&v=4" alt="Mayur's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mayurshewale12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurshewale12&layout=compact&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false&v=3" alt="Top Languages" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=mayurshewale12&layout=compact&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false&cache_seconds=86400&v=4" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mayurshewale12">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurshewale12&theme=tokyonight&background=0a0b10&ring=6366f1&fire=06b6d4&currStreakNum=ffffff&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&border=1e293b&hide_border=false&v=3" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurshewale12&theme=tokyonight&background=0a0b10&ring=6366f1&fire=06b6d4&currStreakNum=ffffff&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&border=1e293b&hide_border=false&cache_seconds=86400&v=4" alt="GitHub Streak" />
   </a>
 </p>
 
