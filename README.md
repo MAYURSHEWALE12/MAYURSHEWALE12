@@ -56,11 +56,11 @@
 
 <p align="center">
   <a href="https://github.com/mayurshewale12">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mayurshewale12&show_icons=true&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false&cache_seconds=86400&v=4" alt="Mayur's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurshewale12&theme=tokyonight" alt="Mayur's Profile Details" width="48%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mayurshewale12">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=mayurshewale12&layout=compact&theme=tokyonight&bg_color=0a0b10&title_color=6366f1&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&hide_border=false&cache_seconds=86400&v=4" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurshewale12&theme=tokyonight" alt="Top Languages" width="48%" />
   </a>
 </p>
 
