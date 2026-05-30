@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Beautiful Animated Header Banner (Cache-breaker applied) -->
-  <img src="banner.svg?v=3" width="100%" alt="Mayur Shewale Banner" />
+  <!-- Beautiful High-Resolution Header Banner (PNG compatibility fallback) -->
+  <img src="banner.png?v=3" width="100%" alt="Mayur Shewale Banner" />
   
   <br/>
   
