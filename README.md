@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Beautiful Animated Header Banner -->
-  <img src="https://github.com/MAYURSHEWALE12/MAYURSHEWALE12/raw/main/banner.svg" width="100%" alt="Mayur Shewale Banner" />
+  <img src="banner.svg" width="100%" alt="Mayur Shewale Banner" />
   
   <br/>
   
