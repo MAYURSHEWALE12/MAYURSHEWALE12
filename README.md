@@ -88,15 +88,7 @@
   </tr>
 </table>
 
-<hr/>
 
-### 💼 Professional Experience
-
-#### **Full Stack Developer Intern** — *Devotra Infotech*
-📅 *Jan 2026 – Present*
-*   Engineered and integrated modern front-end modules with robust backend services for high-performance web applications.
-*   Assisted in developing dynamic, responsive user interfaces and robust RESTful API integration pipelines.
-*   Gained comprehensive experience in clean industrial project structure, architectural design patterns, and systemic debugging.
 
 <hr/>
 
