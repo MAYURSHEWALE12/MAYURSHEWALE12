@@ -26,10 +26,7 @@
     <a href="mailto:mvshewale2003@gmail.com">
       <img src="https://img.shields.io/badge/Email-mvshewale2003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    &nbsp;&nbsp;
-    <a href="tel:+918080554352">
-      <img src="https://img.shields.io/badge/Phone-%2B91--8080554352-06b6d4?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
-    </a>
+
     &nbsp;&nbsp;
     <a href="https://linkedin.com/in/mayurshewale1" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Mayur_Shewale-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
